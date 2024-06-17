@@ -6,9 +6,16 @@
 
 ![Thumbnail of Cayman](thumbnail.png)
 
-## Usage
+## Our Project
 
-To use the Cayman theme:
+Hi there!
+We are Agata and Elisabetta, two students from the University of Bologna.
+This is a website about our project, which is part of the academic assessment for the “Information and Technology Skills” course in the Master’s program “Language, Society, and Communication”. 
+
+Our project focuses on exploring the ARCO knowledge graphs using SPARQL queries, with the aim of enriching the knowledge graph.
+To do that, we decided to use and compare different language models, such as ChatGPT and Gemini.
+
+In the following parts, you can learn more about our **methodology** and our **conclusions******
 
 1. Add the following to your site's `_config.yml`:
 
