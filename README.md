@@ -1,7 +1,5 @@
 # The Zoology Museum of Bologna
 
-title: [Zoology Museum of Bologna]
-description: [A description of our project]
 
 ## Our Project
 
