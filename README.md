@@ -15,7 +15,7 @@ This is a website about our project, which is part of the academic assessment fo
 Our project focuses on exploring the ARCO knowledge graphs using SPARQL queries, with the aim of enriching the knowledge graph.
 To do that, we decided to use and compare different language models, such as ChatGPT and Gemini.
 
-In the following parts, you can learn more about our **methodology** and our **conclusions******
+In the following parts, you can learn more about our **methodology** and our **conclusions**
 
 1. Add the following to your site's `_config.yml`:
 
