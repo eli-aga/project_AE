@@ -1,3 +1,10 @@
+---
+layout: default
+title: The Zoology Museum of Bologna
+description: ITS Skills Project
+---
+
+
 # The Zoology Museum of Bologna
 
 
